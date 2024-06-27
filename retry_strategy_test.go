@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/bsm/redislock"
+	. "github.com/Fonseca2570/redislock"
 )
 
 func TestNoRetry(t *testing.T) {

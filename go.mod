@@ -1,4 +1,4 @@
-module github.com/bsm/redislock
+module github.com/Fonseca2570/redislock
 
 go 1.17
 
